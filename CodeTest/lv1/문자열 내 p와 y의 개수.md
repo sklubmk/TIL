@@ -1,6 +1,6 @@
 ## 문자열 내 p와 y의 개수
 
-JavaScript, Python
+JavaScript
 
 ###### 문제 설명
 
@@ -39,11 +39,4 @@ function solution(s){
     return split_s.filter((w)=>w==='p').length
         === split_s.filter((w)=>w==='y').length
 }
-```  
-#### python
-```python
-import collections
-def solution(s):
-    dictionary = collections.Counter(s.lower())
-    return dictionary['p'] == dictionary['y']
 ```
