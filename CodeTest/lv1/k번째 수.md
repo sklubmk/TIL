@@ -1,6 +1,6 @@
 ## K번째수
 
-JavaScript, Python3
+JavaScript
 
 ###### 문제 설명
 
@@ -51,9 +51,4 @@ function solution(array, commands) {
     }
     return answer;
 }
-```
-#### python
-```python
-def solution(array, commands):
-    return [sorted(array[i-1:j])[k-1] for [i,j,k] in commands]
 ```
