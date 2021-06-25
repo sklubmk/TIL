@@ -1,6 +1,6 @@
 ## x만큼 간격이 있는 n개의 숫자
 
-JavaScript
+JavaScript, Python
 
 ###### 문제 설명
 
@@ -26,4 +26,9 @@ JavaScript
 function solution(x, n) {
     return Array.from(Array(n), (a,i) => (i+1)*x);
 }
+```  
+#### python
+```python
+def solution(x, n):
+    return [i*x for i in range(1,n+1)]
 ```
