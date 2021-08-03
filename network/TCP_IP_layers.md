@@ -12,7 +12,7 @@
 
 <br/>
 
-<img style="display: block;margin: 1.0rem auto; width:60%" alt="OSI 모델과 TCP/IP 계층 모델 비교" src="../img/post_images/network/tcpiplayers.png" />
+<img style="display: block;margin: 1.0rem auto;" alt="OSI 모델과 TCP/IP 계층 모델 비교" src="../img/post_images/network/tcpiplayers.png" width="60%" />
 
 <br/>
 
@@ -184,7 +184,7 @@
 
 <br/>
 
-<img alt="세그멘테이션" style="margin: 1.0rem auto;display: block;width:50%" src="../img/post_images/network/segmentation.png" />
+<img alt="세그멘테이션" style="margin: 1.0rem auto;display: block;" src="../img/post_images/network/segmentation.png" width="50%" />
 
 - 상위 계층 데이터를 세그먼트 단위로 나누는 것
 - 전체 데이터를 분할하여 전체 데이터가 100% 전송되기 전까지 기다려야할 대기시간을 줄여준다.
@@ -250,7 +250,7 @@
 
 <br/>
 
-<img alt="데이터 변환 과정" style="margin: 0 auto;display: block;width:50%" src="../img/post_images/network/data.png" />
+<img alt="데이터 변환 과정" style="margin: 0 auto;display: block;" src="../img/post_images/network/data.png" width="50%" />
 
 <br/>
 
